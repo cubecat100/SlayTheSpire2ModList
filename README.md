@@ -4,7 +4,6 @@ My Slay the spire 2의 제작하거나 실험 중인 게임 모드 목록입니�
 
 이 페이지는 전체 모드 목록과 상태를 정리하기 위한 소개용 페이지입니다.
 
----
 
 ## Overview
 
@@ -17,7 +16,7 @@ My Slay the spire 2의 제작하거나 실험 중인 게임 모드 목록입니�
 | [PathTheSpire2](https://github.com/cubecat100/PathTheSpire2) | 맵의 경로를 추천합니다. | Playable | [[Release](https://github.com/cubecat100/PathTheSpire2/releases)] | N |
 
 
-
+---
 
 ## Status Guide
 
