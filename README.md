@@ -1,6 +1,6 @@
 # SlayTheSpire2 Mods
 
-My Slay the spire 2의 제작하거나 실험 중인 게임 모드 목록입니다.  
+Slay the spire 2의 직접 제작하거나 실험 중인 게임 모드 목록입니다.  
 
 이 페이지는 전체 모드 목록과 상태를 정리하기 위한 소개용 페이지입니다.
 
