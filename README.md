@@ -15,7 +15,8 @@ Slay the spire 2의 직접 제작하거나 실험 중인 게임 모드 목록입
 | [RemovalCostViewer](https://github.com/cubecat100/RemovalCostViewer) | 카드 제거 비용을 표시합니다. | Playable | [[Release](https://github.com/cubecat100/RemovalCostViewer/releases)] | N |
 | [PathTheSpire2](https://github.com/cubecat100/PathTheSpire2) | 맵의 경로를 추천합니다. | Playable | [[Release](https://github.com/cubecat100/PathTheSpire2/releases)] | N |
 | [ColorDrawLib](https://github.com/cubecat100/ColorDrawLib) | 그리기에 컬러를 추가합니다. | Playable | [[Release](https://github.com/cubecat100/ColorDrawLib/releases)] | N |
-
+| [CardReforgeQueueMod](https://github.com/cubecat100/CardReforgeQueueMod) | 카드의 강화 대기열을 만듭니다. | Playable | [[Release](https://github.com/cubecat100/CardReforgeQueueMod/releases)] | N |
+| [IntroSkipMod](https://github.com/cubecat100/IntroSkipMod) | 인트로 중에 게임 로딩을 병렬로 실행합니다. | Playable | [[Release](https://github.com/cubecat100/IntroSkipMod/releases)] | N |
 
 ---
 
