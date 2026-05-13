@@ -18,7 +18,8 @@ Slay the spire 2의 직접 제작하거나 실험 중인 게임 모드 목록입
 | [CardReforgeQueueMod](https://github.com/cubecat100/CardReforgeQueueMod) | 카드의 강화 대기열을 만듭니다. | Playable | [[Release](https://github.com/cubecat100/CardReforgeQueueMod/releases)] | N |
 | [IntroSkipMod](https://github.com/cubecat100/IntroSkipMod) | 인트로를 재생하는 도중에<br>게임 로딩을 병렬로 실행합니다. | Archived | [[Release](https://github.com/cubecat100/IntroSkipMod/releases)] | N |
 | [ModRescan](https://github.com/cubecat100/ModRescan) | 게임 실행 중 모드를 Load/Unload 합니다.  | Archived | [[Release](https://github.com/cubecat100/ModRescan/releases)] | N |
-| [AnimaleseTheSpire2](https://github.com/cubecat100/AnimaleseTheSpire2) | 대화에 동물의 숲 스타일의 음성을 출력합니다.  | Playable | [[Release](https://github.com/cubecat100/AnimaleseTheSpire2/releases)] | N |
+| [AnimaleseTheSpire2](https://github.com/cubecat100/AnimaleseTheSpire2) | 대화에 동물의 숲 스타일의 음성을 출력합니다.  | Archived | [[Release](https://github.com/cubecat100/AnimaleseTheSpire2/releases)] | N |
+| [UndertaleDialogueVoiceMod](https://github.com/cubecat100/UndertaleDialogueVoiceMod) | 대화에 언더테일 스타일의 음성을 출력합니다.  | Archived | [[Release](https://github.com/cubecat100/UndertaleDialogueVoiceMod/releases)] | N |
 
 
 ---
